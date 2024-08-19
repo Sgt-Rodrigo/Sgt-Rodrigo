@@ -61,5 +61,5 @@ Looking forward to connecting and collaborating on exciting projects!
 <hr style="height:1px; border:none; color:#333; background-color:#333;" />
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sgt-Rodrigo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sgt-Rodrigo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
           
