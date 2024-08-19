@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=25B38B&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
 <!--
 **Sgt-Rodrigo/Sgt-Rodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
