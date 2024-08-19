@@ -8,10 +8,11 @@ Looking forward to connecting and collaborating on exciting projects!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=25B38B&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Develop;Building+My+Foundation+in+Tech;Starting+Small%2C+Dreaming+Big)](https://git.io/typing-svg)
 
+---
 
 ### Languages and Tools
 
-<img align="left" alt="nestjs" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg"/>
+<img align="left" alt="nestjs" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/>
 
 <img align="left" alt="react" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 
@@ -48,8 +49,7 @@ Looking forward to connecting and collaborating on exciting projects!
           
 
 
-<img align="left" alt="docker" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-          
+<img align="left" alt="docker" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />  
           
 
 <img align="left" alt="nodejs" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
@@ -58,7 +58,8 @@ Looking forward to connecting and collaborating on exciting projects!
 <img align="left" alt="postman" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" />
           
           
-          
+<hr style="height:1px; border:none; color:#333; background-color:#333;" />
 
-         
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sgt-Rodrigo)](https://github.com/anuraghazra/github-readme-stats)
           
