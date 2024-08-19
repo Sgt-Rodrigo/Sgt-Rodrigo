@@ -56,10 +56,14 @@ Looking forward to connecting and collaborating on exciting projects!
           
 
 <img align="left" alt="postman" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" />
+
+<br>
+<br>
           
           
 <hr style="height:1px; border:none; color:#333; background-color:#333;" />
+<br>
+<br>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sgt-Rodrigo)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sgt-Rodrigo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
           
